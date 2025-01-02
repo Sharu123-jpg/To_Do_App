@@ -1,0 +1,42 @@
+.btn-green {
+background-color: #3C9E24;
+border: solid, 2px, #4FA54F;
+}
+.btn-red{
+  background-color: #DB2527;
+  border: solid, 2px, #BD2424;
+
+  
+}
+.btn-yellow{
+  background-color: #DBD520;
+  border: solid, 2px, #DDCB96;
+}
+.btn{
+  margin-right: 10px;
+  color: white;
+  cursor: pointer;
+  border-radius: 3px;
+}
+.input-group {
+  margin-bottom: 10px;
+}
+.card {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  padding: 5px;
+  max-width: 400px;
+  width: 100%;
+  margin-bottom: 5px;
+}
+.heading{
+  margin-bottom:10px;
+  margin-top:10px;
+}
+.error {
+  color: red;
+  font-weight: bold;
+  margin-bottom: 5px;
+  font-size: small;
+}

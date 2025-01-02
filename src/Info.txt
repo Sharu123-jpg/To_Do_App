@@ -1,0 +1,15 @@
+newTask
+
+[
+    
+  {taskname:Task1, completed:false},
+  {taskname:Task2, completed:false},
+
+]
+
+
+
+
+task descr :
+target date
+completed dropdown{new, inProgress, completed}
